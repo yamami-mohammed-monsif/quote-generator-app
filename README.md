@@ -14,6 +14,8 @@ A simple, responsive quote generator web app that displays random quotes with an
 
 ## Demo
 
+https://yamami-mohammed-monsif.github.io/quote-generator-app/
+
 ## Features
 
 - Displays a new random quote with each click.
