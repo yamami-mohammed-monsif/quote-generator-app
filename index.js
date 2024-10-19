@@ -22,7 +22,7 @@ function completeLoading() {
 async function getData() {
   loading();
   const response = await fetch(
-    "http://api.scraperapi.com?api_key=9e20154350a06dcb50888f1483e51eaa&url=http://api.forismatic.com/api/1.0/?method=getQuote&format=json&lang=en"
+    "https://api.scraperapi.com?api_key=9e20154350a06dcb50888f1483e51eaa&url=http://api.forismatic.com/api/1.0/?method=getQuote&format=json&lang=en"
   );
 
   if (response.status !== 200) {
