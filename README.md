@@ -4,23 +4,23 @@ A simple, responsive quote generator web app that displays random quotes with an
 
 ## 📋 Table of Content
 
-- [Demo](#🚀demo)
-- [Features](#🎯features)
-- [Technologies Used](#🛠️technologies-used)
-- [Installation](#📦installation)
-- [Usage](#🎮usage)
-- [Contributing](#🤝contributing)
-- [License](#📝license)
+- [Demo](#demo)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-## 🚀Demo
+## Demo
 
-## 🎯Features
+## Features
 
 - Displays a new random quote with each click.
 - Allows users to share quotes on Twitter.
 - Fully responsive design.
 
-## 🛠️Technologies Used
+## Technologies Used
 
 - HTML5: Structure of the app.
 - CSS3: Styling and layout.
@@ -28,7 +28,7 @@ A simple, responsive quote generator web app that displays random quotes with an
 - Font Awesome: Icons for quote marks and buttons.
 - Google Fonts: Custom typography using Montserrat.
 
-## 📦Installation
+## Installation
 
 - Clone the repository:
 
@@ -40,13 +40,13 @@ cd quote-generator-app
 - Open the project in your favorite code editor.
 - Run a live server (for example, with Visual Studio Code's Live Server plugin).
 
-## 🎮Usage
+## Usage
 
 - Open the index.html file in a browser.
 - Click the New Quote button to fetch a new random quote.
 - Use the Twitter button to share the displayed quote on Twitter.
 
-## 🤝Contributing
+## Contributing
 
 - Fork the project.
 - Create a new branch:
@@ -69,6 +69,6 @@ git push origin feature-name
 
 - Open a Pull Request.
 
-## 📝License
+## License
 
 This project is licensed under the MIT License.
